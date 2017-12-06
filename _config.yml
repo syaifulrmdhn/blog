@@ -9,7 +9,7 @@ name: Syaiful Romadhon
 description: Lagi belajar buat Nulis-nulis
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {{ site.baseurl }}/images/profil-icon.png
+avatar: https://syaifulrmdhn.github.io/blog/images/profil-icon.png
 
 #
 # Flags below are optional
